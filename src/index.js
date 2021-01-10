@@ -52,7 +52,7 @@ app.listen(app.get('port'), app.get('host'), () => {
         article.init();
     },
     start: true,
-    runOnInit: false
+    runOnInit: true
 })
 });
 

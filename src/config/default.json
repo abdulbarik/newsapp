@@ -1,0 +1,7 @@
+{
+    "NEWS_API_URL":"http://newsapi.org/v2/everything",
+    "SEARCH_TEXT":["bitcoin", "apple","covid","machine learning"],
+    "SORT_BY":{
+        "POPULARITY":"popularity"
+    }
+}
